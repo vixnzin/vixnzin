@@ -5,7 +5,7 @@
  
  
  ##  Detalhes profissionais
- Além das habilidades que desenvolvi dentro da cozinha, desde a produção das massas até a entrega às mãos do cliente, também adiquiri habilidades na parte administrativa e contável (fluxo de caixa, contagem do estoque,etc).Por conta disso tenho um bom conhecimento de Excel, criação de planilhas, organização de fluxo monetário.
+ Além das habilidades que desenvolvi dentro da cozinha, desde a produção das massas até a entrega às mãos do cliente, também adiquiri habilidades na parte administrativa e contábil (fluxo de caixa, controle do estoque,etc).Por conta disso tenho um bom conhecimento de Excel, criação de planilhas, organização de fluxo monetário.
  
  ## Habilidades
  <div align="center">
