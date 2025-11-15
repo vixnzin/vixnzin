@@ -6,7 +6,7 @@ Atualmente estudo para ingressar na **FATEC** e busco minha primeira oportunidad
 
 ---
 
-## 🔧 Habilidades Técnicas
+## Habilidades Técnicas
 
 <div align="left">
   
@@ -47,11 +47,7 @@ Essas habilidades me ajudam a ser um profissional mais organizado, responsável 
 
 <div align="center">
   
-[![DIO](https://img.shields.io/badge/DIO-FFD100?style=for-the-badge&logo=dio&logoColor=black)](https://web.dio.me/users/vicenzocirilo/)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vixnzin)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicenzocirilo@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vicenzo.crlo/)  
-
+[![DIO](https://img.shields.io/badge/DIO-111?style=for-the-badge&logo=dio&logoColor=black)](https://web.dio.me/users/vicenzocirilo/)  [![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vixnzin)  [![Gmail](https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicenzocirilo@gmail.com)  [![Instagram](https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vicenzo.crlo/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicenzo-cirilo/)
 </div>
 
 ---
