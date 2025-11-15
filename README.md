@@ -8,8 +8,6 @@ Atualmente estudo para ingressar na **FATEC** e busco minha primeira oportunidad
 
 ## Habilidades Técnicas
 
-<div align="left">
-  
 **Linguagens e Ferramentas que utilizo atualmente:**
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
