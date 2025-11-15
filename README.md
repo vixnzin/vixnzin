@@ -41,16 +41,6 @@ Essas habilidades me ajudam a ser um profissional mais organizado, responsável 
 
 ---
 
-## Projetos em Destaque
-
-_(Adicione aqui quando quiser que eu escreva a descrição dos seus projetos.)_
-
-- **Projeto 1 – Automação Python** – descrição breve  
-- **Projeto 2 – Site pessoal** – descrição breve  
-- **Projeto 3 – Dashboard/planilha avançada** – descrição breve  
-
----
-
 ## Conecte-se comigo
 
 <div align="center">
