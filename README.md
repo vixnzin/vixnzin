@@ -21,7 +21,9 @@ Atualmente estudo para ingressar na **FATEC** e busco minha primeira oportunidad
 
 > *Em 2025, meu foco será evoluir em:*  
 > - Desenvolvimento Web (HTML, CSS, JavaScript)  
-> - Backend com Python ou Node.js  
+> - Backend com Java e Node.js
+> - Desenvolvimento Mobile( Kotlin e Swift)
+> - Analise de Dados( Python e PowerBI)
 > - Versionamento com Git/GitHub  
 > - Construção de portfólio com projetos reais  
 
